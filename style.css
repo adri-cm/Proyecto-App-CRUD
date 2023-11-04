@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#form{
+    margin: 2% 3%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(109, 63, 3);
+}
+
+body{
+    background-color: #F9B572;
+}
+
+table{
+    background-color: beige;
+}
+
+.container-fluid{
+    background-color: rgb(33, 83, 128);
+}
+
+.container{
+    background-color: antiquewhite;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px;
+    max-width: 400px;
+    
+}
